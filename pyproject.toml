@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voice-assistant-alpha-production"
+version = "0.0.1a1"
+description = "Voice assistant prototype with wake-word controls, browser actions, music shortcuts, and Ollama-powered responses."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Voice Assistant Alpha Production" }]
+dependencies = [
+  "SpeechRecognition",
+  "pyttsx3",
+  "requests",
+  "ollama",
+]
+
+[tool.setuptools]
+py-modules = ["main", "client", "musiclibrary", "prototype"]
