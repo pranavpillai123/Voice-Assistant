@@ -1,0 +1,5 @@
+SpeechRecognition
+pyttsx3
+requests
+ollama
+pyaudio; platform_system == "Windows"

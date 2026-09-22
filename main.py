@@ -6,7 +6,7 @@ import requests
 # import client
 import ollama
 recognizer=sr.Recognizer()
-newsapi="ff07dc7da3bf425f8b9912b7ec77ac67"
+newsapi="your_newsapi_key"
 # engine = pyttsx3.init()
 def speak(text):
     engine = pyttsx3.init()
