@@ -92,6 +92,3 @@ Then speak commands such as:
 - Some features are designed for early-stage testing and experimentation.
 - The repository version is currently aligned to 0.0.1alpha.
 
-## Versioning
-
-This project is tagged as version 0.0.1alpha for the initial alpha release. Future changes should follow semantic versioning and be reflected in `pyproject.toml`, `VERSION`, and the release notes.
