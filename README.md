@@ -92,10 +92,4 @@ Then speak commands such as:
 - Some features are designed for early-stage testing and experimentation.
 - The repository version is currently aligned to 0.0.1alpha.
 
-## Release versioning
 
-When preparing a release, keep version information synchronized in all of these files:
-
-- `pyproject.toml`
-- `VERSION`
-- `CHANGELOG.md`
