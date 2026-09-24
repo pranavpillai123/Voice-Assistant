@@ -1,4 +1,4 @@
-﻿# Voice Assistant Alpha Production
+﻿# Voice Assistant 
 
 Version: 0.0.1alpha
 
